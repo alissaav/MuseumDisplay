@@ -18,11 +18,7 @@ public class MainActivity extends AppCompatActivity {
             public void onClick(View view) {
                 Intent i = new Intent (MainActivity.this, HomeActivity.class);
                 startActivity(i);
-                
             }
         });
-
-
-        ////// + 10pets + 5 + changes werde made
     }
 }
