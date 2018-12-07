@@ -20,8 +20,5 @@ public class MainActivity extends AppCompatActivity {
                 startActivity(i);
             }
         });
-
-
-        ////// ARMNINH F DGIOSN ZGDWIUDE EOD F VIZJ E ZGB INMN VWHZVED F
     }
 }
