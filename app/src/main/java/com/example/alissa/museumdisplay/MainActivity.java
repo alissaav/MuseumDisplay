@@ -23,6 +23,6 @@ public class MainActivity extends AppCompatActivity {
         });
 
 
-        ////// + 10pets
+        ////// + 10pets + 5
     }
 }
