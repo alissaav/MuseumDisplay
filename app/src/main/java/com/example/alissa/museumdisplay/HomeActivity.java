@@ -29,6 +29,6 @@ public class HomeActivity extends AppCompatActivity {
     public void exit(View view){
         AlertDialog.Builder alert = new AlertDialog.Builder(this);
         alert.setTitle("Passwort plox");
-        //Push Test
+        //Push Test11
     }
 }
