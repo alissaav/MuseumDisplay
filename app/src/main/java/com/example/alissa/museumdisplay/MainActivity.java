@@ -18,11 +18,11 @@ public class MainActivity extends AppCompatActivity {
             public void onClick(View view) {
                 Intent i = new Intent (MainActivity.this, HomeActivity.class);
                 startActivity(i);
-                //TestCommit
+                
             }
         });
 
 
-        ////// ARMNINH F DGIOSN ZGDWIUDE EOD F VIZJ E ZGB INMN VWHZVED F
+        ////// + 10pets
     }
 }

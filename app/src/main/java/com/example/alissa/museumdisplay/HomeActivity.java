@@ -20,6 +20,6 @@ public class HomeActivity extends AppCompatActivity {
                 startActivity(i);
             }
         });
-        /////PEMOUEHg<gvEJGjzhrejzgdfsjehdhvdjf
+        // Das hast du sehr gut gemacht
     }
 }
