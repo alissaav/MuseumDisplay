@@ -10,4 +10,9 @@
         <item name="android:textColor">@color/white</item>
     </style>
 
+    <style name="AlertTheme" parent="AppTheme">
+        <item name="android:textColor">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorPrimary</item>
+    </style>
+
 </resources>
