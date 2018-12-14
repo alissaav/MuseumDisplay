@@ -8,11 +8,19 @@
         <item name="colorAccent">@color/colorAccent</item>
         <item name="android:windowBackground">@color/background</item>
         <item name="android:textColor">@color/white</item>
+        <item name="android:textSize">24sp</item>
     </style>
 
     <style name="AlertTheme" parent="AppTheme">
         <item name="android:textColor">@color/colorPrimaryDark</item>
         <item name="colorAccent">@color/colorPrimary</item>
     </style>
+
+    <style name="AppTheme.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar" />
+
+    <style name="AppTheme.PopupOverlay" parent="ThemeOverlay.AppCompat.Light" />
+
+
+
 
 </resources>
